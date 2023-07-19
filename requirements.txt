@@ -1,0 +1,11 @@
+AudioConverter==1.0.0
+configparser==5.3.0
+ffmpeg==1.4
+ffprobe==0.5
+numpy==1.23.1
+pathlib==1.0.1
+pydub==0.25.1
+scikit-learn==1.1.1
+scipy==1.9.0
+vosk==0.3.43
+werpy==0.0.4
