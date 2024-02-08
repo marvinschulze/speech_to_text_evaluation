@@ -8,4 +8,4 @@ pydub==0.25.1
 scikit-learn==1.1.1
 scipy==1.9.0
 vosk==0.3.43
-werpy==0.0.4
+werpy==2.1.1
